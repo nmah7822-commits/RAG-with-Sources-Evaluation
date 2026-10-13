@@ -1,0 +1,10 @@
+[
+  {"question": "How long does standard delivery take?", "expected_keywords": ["3-5"]},
+  {"question": "Is shipping free?", "expected_keywords": ["$50"]},
+  {"question": "How many days do I have to return an item?", "expected_keywords": ["14"]},
+  {"question": "How long do refunds take?", "expected_keywords": ["5-7"]},
+  {"question": "How much does express delivery cost?", "expected_keywords": ["12.99"]},
+  {"question": "When is customer support available?", "expected_keywords": ["Saturday", "9"]},
+  {"question": "How long are gift cards valid?", "expected_keywords": ["12 months"]},
+  {"question": "Do you sell laptops?", "expected_keywords": ["don't know"], "unanswerable": true}
+]
